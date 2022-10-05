@@ -1,0 +1,22 @@
+.images-item {
+    width: 100%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.active {
+    display: block;
+    align-items: center;
+}
+
+.images {
+    display: block;
+}
+
+.btn {
+    padding: 5px 10px;
+    margin: 13px;
+
+}
+
